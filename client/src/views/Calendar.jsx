@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 // import ReactDOM from 'react-dom';
 import { Link } from 'react-router-dom';
 // import eventsImage from '../assets/home.png';
-import timeline from '../assets/recruitmentTimeline2020.png';
 
 class IFrameComponent extends Component {
     iframe() {
@@ -36,11 +35,6 @@ class Calendar extends Component {
             </ul>
           </div>
           <div class="content">
-              <div class="imgContainer">
-              <div class="imgDiv">
-                <img class="eventImg" src={timeline} />
-              </div>
-              </div>
               <div class="containerCalendar">
                 <IFrameComponent iframe={iframe_cal} />
               </div>

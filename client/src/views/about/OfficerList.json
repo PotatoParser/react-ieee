@@ -39,19 +39,20 @@
         }
       },
       {
-        "Officer": "Nimalen Sivapalan",
+        "Officer": "Wilson Nguyen",
         "Links": {
-          "Github": "https://github.com/nsivapalan/",
-          "Linkedin": "https://linkedin.com/in/nimalen"
+          "Github": "https://github.com/PotatoParser",
+          "Linkedin": "https://www.linkedin.com/in/wilson-nguyen-4252b9163/"
         }
       },
-      
       {
-        "Officer": "Elizabeth Wang",
-        "Links": {
-          "Linkedin": "https://www.linkedin.com/in/elizabeth-t-wang/"
-
-        }
+        "Officer": "Andrew Dinh"
+      },
+      {
+        "Officer": "Ishaan Mauli Mishra"
+      },
+      {
+        "Officer": "John Lee"
       }
     ],
 
